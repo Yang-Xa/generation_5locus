@@ -17,3 +17,5 @@
 
 
 ### Example:
+
+![res](https://user-images.githubusercontent.com/26017665/115489857-7f052a00-a28f-11eb-8fa5-f6b82e681a82.PNG)
