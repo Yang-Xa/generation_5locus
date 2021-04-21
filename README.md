@@ -12,5 +12,5 @@
 **diseased samples**: the total number of diseased samples, type: integer  
 **control samples**: the total number of control samples, type: integer  
 **path1**: the path where you save the table of alpha and beta, including the filename, type: string  
-**path2**: the path where you save the generated data, type: string  
+**path2**: the path where you save the generated data, including the filename, type: string  
 **model**: three models, {model01, model02, model3}, type: string  
