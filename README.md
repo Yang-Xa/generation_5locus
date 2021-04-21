@@ -22,6 +22,6 @@ diseased samples: the total number of diseased samples, type: integer
 
 control samples: the total number of control samples, type: integer
 
-path: the path where you save the generated data and the table of  and , type: string
+path: the path where you save the generated data and the table of alpha and beta, type: string
 
 model: three models, {model01, model02, model3}, type: string
