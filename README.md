@@ -1,6 +1,7 @@
 # generation_5locus
 
 The parameter: 
+
 k-locus: to generate k-locus epistasis data, range: [1, 8], type: integer
 
 PDR: the prevalence, default: 0.1, type: double
