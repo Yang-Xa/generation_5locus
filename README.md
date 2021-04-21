@@ -1,7 +1,7 @@
-# generation_5locus
+# generation_5locus (proDMEn)
 
 
-The parameter:  
+#####The parameter:  
 **k-locus**: to generate k-locus epistasis data, range: [1, 8], type: integer  
 **PDR**: the prevalence, default: 0.1, type: double  
 **the bias of PDR**: according to the PDR, 0.05 is recommended, type: double  
